@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 2%;
+}
+.card{
+    margin-top: 10vh;
+}
